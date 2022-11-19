@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-19T12:47:07 IST" name="Default suite" finished-at="2022-11-19T12:47:23 IST" duration-ms="15884">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T12:47:07 IST" name="Default test" finished-at="2022-11-19T12:47:23 IST" duration-ms="15884">
+      <class name="com.test.LogoutPageTest">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.test.LogoutPageTest@3eb7fc54]" started-at="2022-11-19T12:47:07 IST" name="precondition" finished-at="2022-11-19T12:47:15 IST" duration-ms="7881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="verify_SignoutPage()[pri:0, instance:com.test.LogoutPageTest@3eb7fc54]" started-at="2022-11-19T12:47:15 IST" name="verify_SignoutPage" finished-at="2022-11-19T12:47:23 IST" duration-ms="7844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SignoutPage -->
+      </class> <!-- com.test.LogoutPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
